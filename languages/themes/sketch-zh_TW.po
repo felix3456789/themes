@@ -1,0 +1,311 @@
+# Translation of Themes - Sketch in Chinese (Taiwan)
+# This file is distributed under the same license as the Themes - Sketch package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-29 18:50:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Themes - Sketch\n"
+
+#. Description of the plugin/theme
+msgid "A clean, responsive portfolio theme with options for a custom site logo, a featured content slider, and lots of room to share your work."
+msgstr "這是一款簡潔、適用於呈現作品集的回應式佈景主題。它可以自訂網站標誌、進行精選內容輪播，並且有大面積區域可供展示個人作品。"
+
+#. Theme Name of the plugin/theme
+msgid "Sketch"
+msgstr "Sketch"
+
+#: inc/jetpack.php:141
+msgid "Older projects"
+msgstr "較舊的專案"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio Page Template"
+msgstr "作品集頁面範本"
+
+#. Template Name of the plugin/theme
+msgid "Full Width, No Sidebar"
+msgstr "全幅寬度、無資訊欄"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "「%s」的搜尋結果"
+
+#: portfolio-page.php:90
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發佈第一個專案嗎？請從<a href=\"%1$s\">這裡</a>開始。"
+
+#: portfolio-page.php:84
+msgid "No Project Found"
+msgstr "找不到符合條件的專案"
+
+#: inc/template-tags.php:217
+msgid "All %s posts"
+msgstr "文章格式為「%s」的全部文章"
+
+#: inc/template-tags.php:173
+msgid "More Projects"
+msgstr "更多專案"
+
+#: inc/template-tags.php:87
+msgid "<span class=\"posted-on\">%1$s</span><span class=\"byline\"><span class=\"sep\"> | </span>%2$s</span>"
+msgstr "<span class=\"posted-on\">%1$s</span><span class=\"byline\"><span class=\"sep\"> | </span>%2$s</span>"
+
+#: inc/template-tags.php:62
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">></span>"
+msgstr "%title <span class=\"meta-nav\">></span>"
+
+#: inc/template-tags.php:61
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\"><</span> %title"
+msgstr "<span class=\"meta-nav\"><</span> %title"
+
+#: inc/template-tags.php:58
+msgid "Post navigation"
+msgstr "文章導覽"
+
+#: inc/template-tags.php:35
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr "<span class=\"meta-nav\">下一頁</span>"
+
+#: inc/template-tags.php:31
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr "<span class=\"meta-nav\">上一頁</span>"
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr "文章導覽"
+
+#: inc/extras.php:71
+msgid "Page %s"
+msgstr "第 %s 頁"
+
+#: inc/customizer.php:40
+msgid "Hide title and content on Portfolio Page Template"
+msgstr "在 [作品集頁面範本] 中隱藏標題及內容"
+
+#: inc/customizer.php:30
+msgid "Square (1:1)"
+msgstr "矩形 (1:1)"
+
+#: inc/customizer.php:29
+msgid "Portrait (3:4)"
+msgstr "直向 (3:4)"
+
+#: inc/customizer.php:28
+msgid "Landscape (4:3)"
+msgstr "橫向 (4:3)"
+
+#: inc/customizer.php:24
+msgid "Portfolio Thumbnail Aspect Ratio"
+msgstr "作品集縮圖外觀比例"
+
+#: header.php:31
+msgid "Menu"
+msgstr "選單"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "跳至主要內容"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:165
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:116
+msgid "Sidebar"
+msgstr "資訊欄"
+
+#: functions.php:75
+msgid "Social Links"
+msgstr "社群網路連結"
+
+#: functions.php:74
+msgid "Primary Menu"
+msgstr "主要選單"
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr "佈景主題採用 %2$s 所設計的 %1$s"
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "本站採用 %s 建置"
+
+#: footer.php:18
+msgid "http://wordpress.org/"
+msgstr "https://tw.wordpress.org/"
+
+#: content-single.php:35
+msgid "Posted in %1$s"
+msgstr "分類: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:31
+msgid ", "
+msgstr "、"
+
+#: content-portfolio-single.php:38
+msgid "% Comments"
+msgstr "% 則留言"
+
+#: content-portfolio-single.php:38
+msgid "1 Comment"
+msgstr "1 則留言"
+
+#: content-portfolio-single.php:38
+msgid "Leave a comment"
+msgstr "發佈留言"
+
+#: content-portfolio-single.php:23 content.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "閱讀全文 <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-portfolio-single.php:16
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "、"
+
+#: content-page.php:18 content-portfolio-single.php:26 content-single.php:22
+#: content.php:36 portfolio-page.php:28
+msgid "Pages:"
+msgstr "頁次:"
+
+#: content-none.php:28 portfolio-page.php:94
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "找不到符合條件的內容。請使用搜尋功能，應會有所幫助。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，找不到符合搜尋條件的結果，請以不同的關鍵字重試。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發佈第一篇文章了嗎？請從<a href=\"%1$s\">這裡</a>開始。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "找不到符合條件的結果"
+
+#: content-featured.php:32 content-page.php:24 content-portfolio-single.php:18
+#: content-portfolio.php:17 content-single.php:14 content.php:24
+#: eventbrite/eventbrite-index.php:44 eventbrite/eventbrite-single.php:31
+#: portfolio-page.php:34
+msgid "Edit"
+msgstr "編輯"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "留言功能已關閉。"
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments >"
+msgstr "較新的留言 >"
+
+#: comments.php:36 comments.php:54
+msgid "< Older Comments"
+msgstr "< 較舊的留言"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "留言導覽"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "在〈%2$s〉中有 %1$s 則留言"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "彙整"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "交談記錄"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "音訊"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "近況簡述"
+
+#: archive.php:54
+msgid "Links"
+msgstr "連結"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "引文"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "視訊"
+
+#: archive.php:45
+msgid "Images"
+msgstr "圖片"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "圖庫"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "記事"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y 年"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "年份: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y 年 n 月"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "月份: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "日期: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "作者: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "在這裡找不到符合條件的項目，請使用搜尋功能進行查詢。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "很抱歉，找不到符合條件的頁面。"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.com/themes/"
+msgstr "https://tw.wordpress.com/themes/"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/sketch/"
+msgstr "https://tw.wordpress.com/themes/sketch/"

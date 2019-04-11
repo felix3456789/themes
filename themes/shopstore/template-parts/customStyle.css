@@ -1,0 +1,22 @@
+.header-top{
+    background: #00ccff;
+}
+.centerTitle{
+    text-align: center;
+}
+.rd-navbar-inner{
+    background-color:white;
+}
+.rd-navbar-outer {
+    background:white;
+}
+.rd-navbar-static .rd-navbar-nav > li.active > a, .rd-navbar-static .rd-navbar-nav > li.opened > a, .rd-navbar-static .rd-navbar-nav > li.focus > a, .rd-navbar-static .rd-navbar-nav > li > a:hover {
+    color: white;
+    background: #00ccff;
+}
+.rd-navbar-static .rd-navbar-nav > li > a {
+    color:#000;
+}
+.footer-bottom{
+    background:#00ccff
+}

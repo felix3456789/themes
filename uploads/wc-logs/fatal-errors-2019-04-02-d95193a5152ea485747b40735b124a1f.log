@@ -1,0 +1,30 @@
+2019-04-02T13:56:30+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\inc\woocommerce.php on line 292
+
+2019-04-02T17:10:51+00:00 CRITICAL syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:10:52+00:00 CRITICAL syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:12:15+00:00 CRITICAL syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:12:16+00:00 CRITICAL syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:13:12+00:00 CRITICAL syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:13:12+00:00 CRITICAL syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:13:22+00:00 CRITICAL syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:13:22+00:00 CRITICAL syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:13:30+00:00 CRITICAL syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:13:30+00:00 CRITICAL syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:14:43+00:00 CRITICAL syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:14:43+00:00 CRITICAL syntax error, unexpected 'Y' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:17:29+00:00 CRITICAL syntax error, unexpected ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
+2019-04-02T17:17:30+00:00 CRITICAL syntax error, unexpected ')' in C:\xampp\htdocs\wordpress\wp-content\themes\shopstore\footer.php on line 31
+
