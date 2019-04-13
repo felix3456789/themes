@@ -31,41 +31,12 @@ function shopstore_header_container_top(){
     color:#000;
 }
 .footer-bottom{
-    background:#00ccff
+    border-top:5px solid; 
+    border-top-color:#00ccff;
 }
 </style>
 <div class="header-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <ul class="flat-support">
-                    	<?php if ( get_theme_mod('location') != "" ) : ?>
-                        <li><i class="fa fa-map-marker"></i><?php echo esc_html( get_theme_mod('location') );?></li>
-                        <?php endif;?>
-                        <?php if ( get_theme_mod('email') != "" ) : ?>
-                        <li><i class="fa fa-envelope"></i><?php echo esc_html( get_theme_mod('email') );?> </li>
-                        <?php endif;?>
-                        <?php if ( get_theme_mod('phone') != "" ) : ?>
-                        <li><i class="fa fa-phone"></i><?php echo esc_html( get_theme_mod('phone') );?> </li>
-                        <?php endif;?>
-                    </ul><!-- /.flat-support -->
-                </div>
-                <div class="col-md-6">
-                   
-					<?php
-                        wp_nav_menu( array(
-                            'theme_location'    => 'top_bar_navigation',
-                            'depth'             => 2,
-                            'menu_class'  		=> 'flat-unstyled',
-                            'container'			=>'ul',
-                            'fallback_cb'    => false,
-                        ) );
-                    ?>	
-                   
-                </div><!-- /.col-md-4 -->
-                <div class="clearfix"></div>
-            </div><!-- /.row -->
-        </div><!-- /.container -->
+       
     </div><!-- /.header-top -->
 
 <?php	
