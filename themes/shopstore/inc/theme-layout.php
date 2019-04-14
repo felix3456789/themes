@@ -216,7 +216,7 @@ if ( ! function_exists( 'shopstore_static_banner_container' ) ) :
 
 endif;
 
-add_action( 'shopstore_header_container', 'shopstore_static_banner_container',40 );
+add_action( 'shopstore_banner_container', 'shopstore_static_banner_container',40 );
 
 /*-----------------------------------------
 * PAGE CONTAINER 

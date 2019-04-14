@@ -35,6 +35,7 @@
     * @hooked shopstore_header_container
     */
     do_action( 'shopstore_header_container' );
+    do_action('shopstore_banner_container')
     ?> 
     
 </section>

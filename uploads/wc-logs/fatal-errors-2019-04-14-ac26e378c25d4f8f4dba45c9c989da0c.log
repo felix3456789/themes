@@ -1,0 +1,4 @@
+2019-04-14T03:00:17+00:00 CRITICAL syntax error, unexpected 'shopstore_static_banner_contai' (T_STRING), expecting ',' or ')' 於 D:\Documents\Projects\Letgross\WP\wp-content\themes\shopstore\inc\theme-layout.php 在 219 線上
+
+2019-04-14T03:45:15+00:00 CRITICAL syntax error, unexpected '<', expecting end of file 於 D:\Documents\Projects\Letgross\WP\wp-content\themes\shopstore\page-template-customHomePage.php 在 59 線上
+
