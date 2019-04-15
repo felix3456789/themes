@@ -2155,7 +2155,7 @@ function fwrsw_print_responsive_full_width_slider_wp_func($atts){
                                     ?>         
                                      <div class="o-slider--item" data-image="<?php echo $outputimg;?>">
                                         <div class="o-slider-textWrap">
-                                        <a href="">
+                                        <a href="http://57y.3bb.myftpupload.com/zh/shop/">
                                           <?php if(trim($title)!=''):?>  
                                              <span class="o-slider-title"><?php echo $title;?></span>
                                              <span class="a-divider"></span>
