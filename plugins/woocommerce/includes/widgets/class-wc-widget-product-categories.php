@@ -285,7 +285,7 @@ class WC_Widget_Product_Categories extends WC_Widget {
 
 			echo '<ul class="product-categories">';
 			?>
-			<li class="cat-item"><a href="http://localhost/wordpress/shop/">All</a> <span class="count"></span></li>
+		
 			<?php
 			wp_list_categories( apply_filters( 'woocommerce_product_categories_widget_args', $list_args ) );
 
