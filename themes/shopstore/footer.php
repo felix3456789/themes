@@ -56,9 +56,6 @@
         </div><!-- /.container -->
 		</section><!-- /.footer-bottom -->
 </div><!-- /.boxed -->
-
-<a href="javascript:void(0)" id="backToTop" class="ui-to-top"><?php echo esc_html__( 'BACK TO TOP', 'shopstore' );?><i class="fa fa-long-arrow-up"></i></a>
-
 <?php wp_footer(); ?>
 </body>
 </html>
