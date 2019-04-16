@@ -2589,9 +2589,9 @@ ul.comments-list .comment-reply-link:hover{
 * Page 
 *---------------------------------------------------------------*/
 .page-container {
-    padding: 46px 0px;
+		padding: 0px 0px;
 }
-.page-container p{
+.page-container {
 	font-size:0.9rem;	
 }
 .site-header{
